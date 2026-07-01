@@ -1,4 +1,4 @@
-# 🤖 AI & ML Bootcamp
+#  AI & ML Bootcamp
 
 Welcome to the **AI & ML Bootcamp** repository! This repository contains the projects, assignments, notes, and hands-on implementations completed during my Artificial Intelligence and Machine Learning Bootcamp.
 
@@ -6,22 +6,22 @@ The purpose of this repository is to document my learning journey, strengthen my
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository includes:
 
-* 📖 Bootcamp assignments
-* 🐍 Python programming exercises
-* 📊 Data Analysis projects
-* 🤖 Machine Learning implementations
-* 🌐 Web Scraping projects
-* 🗄️ Database (SQL) practice
-* 📈 Data Visualization
-* 📄 Project documentation and reports
+*  Bootcamp assignments
+*  Python programming exercises
+*  Data Analysis projects
+*  Machine Learning implementations
+*  Web Scraping projects
+*  Database (SQL) practice
+*  Data Visualization
+*  Project documentation and reports
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * NumPy
@@ -37,7 +37,7 @@ This repository includes:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 AI-ML-Bootcamp/
@@ -54,7 +54,7 @@ AI-ML-Bootcamp/
 
 ---
 
-## 🚀 Projects Included
+##  Projects Included
 
 * Amazon Product Web Scraping
 * Flipkart Product Scraping
@@ -67,7 +67,7 @@ AI-ML-Bootcamp/
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 * Build a strong foundation in Python programming.
 * Understand data preprocessing and visualization techniques.
@@ -78,7 +78,7 @@ AI-ML-Bootcamp/
 
 ---
 
-## 📚 Key Concepts Covered
+##  Key Concepts Covered
 
 * Python Fundamentals
 * Object-Oriented Programming
@@ -93,14 +93,14 @@ AI-ML-Bootcamp/
 
 ---
 
-## 🤝 Acknowledgements
+##  Acknowledgements
 
 I would like to express my sincere gratitude to:
 
-* 🎓 My College for providing continuous learning opportunities.
-* 👨‍🏫 Our Faculty Members for their guidance and encouragement.
-* 💼 The Bootcamp Organizers and Training Company for delivering industry-oriented knowledge.
-* 👨‍💻 Our Instructor for sharing practical insights and hands-on experience throughout the bootcamp.
+*  My College for providing continuous learning opportunities.
+*  Our Faculty Members for their guidance and encouragement.
+*  The Bootcamp Organizers and Training Company for delivering industry-oriented knowledge.
+*  Our Instructor for sharing practical insights and hands-on experience throughout the bootcamp.
 
 Their support has been invaluable in helping me strengthen my skills in Artificial Intelligence and Machine Learning.
 
@@ -120,6 +120,6 @@ Their support has been invaluable in helping me strengthen my skills in Artifici
 
 **GitHub:** https://github.com/taniya2013
 
-**LinkedIn:** *(www.linkedin.com/in/taniya-t-6875aa338)*
+**LinkedIn:https://www.linkedin.com/in/taniya-t-6875aa338? 
 
  If you find this repository useful, consider giving it a **Star** and feel free to explore the projects. Feedback and suggestions are always welcome!
